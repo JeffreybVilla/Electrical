@@ -27,6 +27,16 @@ From these plants, electricity enters "step-up" transformers that increase volta
 
 Electricity flows at these high voltages and travels through high-voltage transmission wires to communities that can be hundreds of miles away from power plants. 
 "Step-down" transformers located at substations then reduce voltage for distribution along street wires. 
+On utility power poles, smaller transformers further reduce the voltage to ordinary 120-volt electricity for the house.
+
+Wires carrying electricity to a house either run underground or are strung overhead and attatched to a piece of conduit called a service mast.
+Most houses built after 1950 have 3 wires running to the service head: 2 power wires, each carrying 120 volts, and a grounded neutral wire.
+
+Electricity from the two 120-volt wires may be combined at the service panel to supply electricity to large 240-volt appliances such as clothes dryers or electric water heaters.
+
+Incoming electricity passes through a meter that measures electricty consumption. 
+Electricity then enters the service panel, where it is distributed to circuits that run throughout the house.
+The service panel also contains fuses or circuit breakers that shut off power to the individual circuits in the event of a short circuit or an overload. 
 
 
 
