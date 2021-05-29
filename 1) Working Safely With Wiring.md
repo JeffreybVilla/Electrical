@@ -21,28 +21,50 @@ There are about 50,000 electrical fires each year causing 450 deaths, 1,500 inju
     !!!!!!!! Don't assume the neutral is at 0 volts, defects can put voltage on the neutral wire. Treat it as hot wire until proven otherwise.!!!!!!!!
 
 ## The Delivery System
-Electricity is produced by large power plants.
-Power plants are spread accross the country and generate electricity with generators that are turned by water, wind, or steam.
-From these plants, electricity enters "step-up" transformers that increase voltage to half a million volts or more.
+    Electricity is produced by large power plants.
+    Power plants are spread accross the country and generate electricity with generators that are turned by water, wind, or steam.
+    From these plants, electricity enters "step-up" transformers that increase voltage to half a million volts or more.
 
-Electricity flows at these high voltages and travels through high-voltage transmission wires to communities that can be hundreds of miles away from power plants. 
-"Step-down" transformers located at substations then reduce voltage for distribution along street wires. 
-On utility power poles, smaller transformers further reduce the voltage to ordinary 120-volt electricity for the house.
+    Electricity flows at these high voltages and travels through high-voltage transmission wires to communities that can be hundreds of miles away from power plants. 
+    "Step-down" transformers located at substations then reduce voltage for distribution along street wires. 
+    On utility power poles, smaller transformers further reduce the voltage to ordinary 120-volt electricity for the house.
 
-Wires carrying electricity to a house either run underground or are strung overhead and attatched to a piece of conduit called a service mast.
-Most houses built after 1950 have 3 wires running to the service head: 2 power wires, each carrying 120 volts, and a grounded neutral wire.
+    Wires carrying electricity to a house either run underground or are strung overhead and attatched to a piece of conduit called a service mast.
+    Most houses built after 1950 have 3 wires running to the service head: 2 power wires, each carrying 120 volts, and a grounded neutral wire.
 
-Electricity from the two 120-volt wires may be combined at the service panel to supply electricity to large 240-volt appliances such as clothes dryers or electric water heaters.
+    Electricity from the two 120-volt wires may be combined at the service panel to supply electricity to large 240-volt appliances such as clothes dryers or electric water heaters.
 
-Incoming electricity passes through a meter that measures electricty consumption. 
-Electricity then enters the service panel, where it is distributed to circuits that run throughout the house.
-The service panel also contains fuses or circuit breakers that shut off power to the individual circuits in the event of a short circuit or an overload. 
+    Incoming electricity passes through a meter that measures electricty consumption. 
+    Electricity then enters the service panel, where it is distributed to circuits that run throughout the house.
+    The service panel also contains fuses or circuit breakers that shut off power to the individual circuits in the event of a short circuit or an overload. 
+    Certain high-current appliances, such as microwave ovens, are usually plugged into their own individual circuits to prevent overloads.
 
 
 
 
 
 # Glossary of Electrical Terms
+### Ampere (or amp)
+Refers to the rate at which electrical current flows to a light, tool, or appliance.
+
+### Armored Cable: 
+An assembly of insulated wires enclosed in a flexible, interlocked metallic armor. 
+
+### Box: 
+A device used to contain wiring connections. 
+
+###
+
+
+
+
+
+
+
+
+
+
+
 
 # Understanding Electrical Circuits
 
